@@ -19,6 +19,6 @@ IRRG: 3 channels (IR-R-G)
 RGB: 3 channels (R-G-B)
 RGBIR: 4 channels (R-G-B-IR)
 
-### Some prediction on test tile...
+### Some predictions on test tile...
 ![prediction](https://user-images.githubusercontent.com/66828546/113218568-0b6b9080-9280-11eb-9eb5-bb709ac6bc48.jpg)
 
