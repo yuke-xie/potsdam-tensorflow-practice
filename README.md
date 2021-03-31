@@ -1,5 +1,7 @@
 ## potsdam-tensorflow-practice
 The remote sensing image classification of Potsdam dataset using tensorflow
+### [Jupyter Notebook](https://github.com/medicinely/potsdam-tensorflow-practice/blob/main/main_cnn.ipynb)
+
 
 ### 2D Semantic Labeling Contest - Potsdam
 https://www2.isprs.org/commissions/comm2/wg4/benchmark/2d-sem-label-potsdam/
