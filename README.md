@@ -1,5 +1,5 @@
 # RemoteSensing-Classification-practice
-The remote sensing image classsification of Potsdam dataset using CNN(tensorflow)
+The remote sensing image classification of Potsdam dataset using tensorflow
 
 ### 2D Semantic Labeling Contest - Potsdam
 https://www2.isprs.org/commissions/comm2/wg4/benchmark/2d-sem-label-potsdam/
