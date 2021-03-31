@@ -1,10 +1,10 @@
 # RemoteSensing-Classification-practice
 The remote sensing image classsification of Potsdam dataset using CNN(tensorflow)
 
-###2D Semantic Labeling Contest - Potsdam
+### 2D Semantic Labeling Contest - Potsdam
 https://www2.isprs.org/commissions/comm2/wg4/benchmark/2d-sem-label-potsdam/
 
-###Data description
+### Data description
 The data set contains 38 patches (of the same size), each consisting of a true orthophoto (TOP) extracted from a larger TOP mosaic, see Figure below and a DSM. 
 
 ![image](https://user-images.githubusercontent.com/66828546/113218845-82088e00-9280-11eb-9cd5-a42a96eea2d0.png)
@@ -17,6 +17,6 @@ IRRG: 3 channels (IR-R-G)
 RGB: 3 channels (R-G-B)
 RGBIR: 4 channels (R-G-B-IR)
 
-###Some prediction on test tile...
+### Some prediction on test tile...
 ![prediction](https://user-images.githubusercontent.com/66828546/113218568-0b6b9080-9280-11eb-9eb5-bb709ac6bc48.jpg)
 
