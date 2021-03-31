@@ -1,4 +1,4 @@
-## RemoteSensing-Classification-practice
+## potsdam-tensorflow-practice
 The remote sensing image classification of Potsdam dataset using tensorflow
 
 ### 2D Semantic Labeling Contest - Potsdam
